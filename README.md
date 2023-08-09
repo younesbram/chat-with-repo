@@ -34,7 +34,10 @@ To set up and run this project, follow these steps:
    ```
    streamlit run chat.py
    ```
-   
+
+## Demo
+![Demo with Twitter Repo](image.png)
+
 ## Sponsors
 
 ✨ https://younes.ca
